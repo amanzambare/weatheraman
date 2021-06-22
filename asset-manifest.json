@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatheraman.git/static/css/main.5230ea03.chunk.css",
+    "main.js": "/weatheraman.git/static/js/main.6f1cc5be.chunk.js",
+    "main.js.map": "/weatheraman.git/static/js/main.6f1cc5be.chunk.js.map",
+    "runtime-main.js": "/weatheraman.git/static/js/runtime-main.954ab26e.js",
+    "runtime-main.js.map": "/weatheraman.git/static/js/runtime-main.954ab26e.js.map",
+    "static/js/2.664672b4.chunk.js": "/weatheraman.git/static/js/2.664672b4.chunk.js",
+    "static/js/2.664672b4.chunk.js.map": "/weatheraman.git/static/js/2.664672b4.chunk.js.map",
+    "static/js/3.35bacabf.chunk.js": "/weatheraman.git/static/js/3.35bacabf.chunk.js",
+    "static/js/3.35bacabf.chunk.js.map": "/weatheraman.git/static/js/3.35bacabf.chunk.js.map",
+    "index.html": "/weatheraman.git/index.html",
+    "static/css/main.5230ea03.chunk.css.map": "/weatheraman.git/static/css/main.5230ea03.chunk.css.map",
+    "static/js/2.664672b4.chunk.js.LICENSE.txt": "/weatheraman.git/static/js/2.664672b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954ab26e.js",
+    "static/js/2.664672b4.chunk.js",
+    "static/css/main.5230ea03.chunk.css",
+    "static/js/main.6f1cc5be.chunk.js"
+  ]
+}
